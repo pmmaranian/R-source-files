@@ -1,0 +1,4 @@
+Currently contains two files:
+
+1. functions for producing tables handling mixed output for Sweave documents
+2. functions for producing tables handling mixed output for R Markdown documents
